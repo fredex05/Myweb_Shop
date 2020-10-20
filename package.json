@@ -1,0 +1,24 @@
+{
+  "name": "myweb_shop",
+  "version": "1.0.0",
+  "description": "My web shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredex05/Myweb_Shop.git"
+  },
+  "author": "fredex05",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredex05/Myweb_Shop/issues"
+  },
+  "homepage": "https://github.com/fredex05/Myweb_Shop#readme",
+  "dependencies": {
+    "angular": "^1.8.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
