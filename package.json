@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/fredex05/Myweb_Shop#readme",
   "dependencies": {
-    "angular": "^1.8.1",
+    "angular": "^1.8.2",
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1"
   }
