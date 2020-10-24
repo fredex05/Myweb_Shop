@@ -16,9 +16,10 @@
     "url": "https://github.com/fredex05/Myweb_Shop/issues"
   },
   "homepage": "https://github.com/fredex05/Myweb_Shop#readme",
-  "dependencies": {
-    "angular": "^1.8.2",
-    "bootstrap": "^4.5.3",
-    "jquery": "^3.5.1"
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
   }
 }
