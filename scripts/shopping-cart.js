@@ -11,8 +11,11 @@ angular.module('shopApp', [])
  product: repository.getProduct(1),
  number: 1
  }), new Line({
- product: repository.getProduct(3),
+ product: repository.getProduct(2),
  number: 2
+ }), new Line({
+ product: repository.getProduct(3),
+ number: 3
  })];
  $scope.total = function () {
  var sum = 0;
